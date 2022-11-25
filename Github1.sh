@@ -1,9 +1,4 @@
-echo Where are you
-echo I am in Limbe
-touch Obi
-touch Sandra
-echo Where are you coming from
-echo From Canada
-expr 3 + 6
-expr 10 \* 5
-expr 5 \* 5
+echo "we go take that cup"
+that cup na wa own
+#Na we get cup
+echo By fire by corona we go take that cup
